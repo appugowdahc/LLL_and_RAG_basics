@@ -1,0 +1,6 @@
+# Phase 1 — Lesson 6: Context Window
+# pip install -r requirements.txt
+
+anthropic>=0.40.0
+python-dotenv>=1.0.0
+tiktoken>=0.7.0

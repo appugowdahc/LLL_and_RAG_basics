@@ -1,0 +1,7 @@
+# Phase 1 — Lesson 3: LLM Internals
+# pip install -r requirements.txt
+
+anthropic>=0.40.0
+python-dotenv>=1.0.0
+numpy>=1.26.0       # Vector math: dot products, norms, matrix ops
+tiktoken>=0.7.0     # OpenAI tokenizer — shows real BPE token splits

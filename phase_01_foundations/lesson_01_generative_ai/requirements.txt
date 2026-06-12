@@ -1,0 +1,5 @@
+# Phase 1 — Lesson 1: Generative AI
+# Install with: pip install -r requirements.txt
+
+anthropic>=0.40.0       # Official Anthropic SDK — Claude API client
+python-dotenv>=1.0.0    # Load .env files into os.environ (keeps API keys out of code)
